@@ -2,6 +2,17 @@
 
 pragma solidity ^0.8.9;
 
+/**
+
+Tax: 15/15
+
+Website: http://xshiba.bet/
+
+Twitter: https://twitter.com/XShibaBet
+
+Telegram: https://t.me/xshibabet
+
+*/
 
 interface IERC20 {
 
